@@ -6,12 +6,15 @@
   <a href="https://www.instagram.com/gau.ri.__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="Instagram" />
   </a>
+
   <a href="https://www.linkedin.com/in/gauri-agarwal-381798203/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:gauriagarwal25@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
   </a>
+  
   <a href="https://leetcode.com/u/Gauri_25/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="36" alt="LeetCode" />
   </a>
@@ -21,7 +24,7 @@
 
 ### 👩‍💻 About Me
 
-🌱 BTech CSE student | Software Development enthusiast  
+🌱 BTech CSE student at NITD | Software Development enthusiast  
 🎨 Creative, curious, and always exploring new tech  
 🚀 Passionate about building things that make a difference  
 📊 Experienced in web dev, digital marketing, social media & management  
