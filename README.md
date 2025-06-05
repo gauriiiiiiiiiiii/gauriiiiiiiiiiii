@@ -1,8 +1,4 @@
-<h1 align="left">Hey there 👋</h1>
-
-###
-
-<p align="left">I'm <strong>Gauri Agarwal</strong></p>
+<h1 align="left">Hey👋 I'm Gauri </h1>
 
 ###
 
@@ -52,24 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="AWS" />
 </div>
-
----
-
-### 📫 Connect With Me
-
-- 💌 Email: [gauriagarwal25@gmail.com](mailto:gauriagarwal25@gmail.com)  
-- 👔 LinkedIn: [Gauri Agarwal](https://www.linkedin.com/in/gauri-agarwal-381798203/)  
-- 🧠 LeetCode: [Gauri_25](https://leetcode.com/u/Gauri_25/)  
-- 📷 Instagram: [@gau.ri.__](https://www.instagram.com/gau.ri.__/)
-
----
-
-### 🌟 Fun Facts
-
-- ✨ Creating bugs since forever  
-- 🧩 Can spend hours figuring out one semicolon  
-- 🧃 Runs on chai and creativity  
-- 🧠 Learning something new every day
 
 ---
 
