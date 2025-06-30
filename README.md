@@ -24,7 +24,7 @@
 
 ### 👩‍💻 About Me
 
-🌱 BTech CSE student at NITD | Software Development enthusiast  
+🌱 Software Development enthusiast  
 🎨 Creative, curious, and always exploring new tech  
 🚀 Passionate about building things that make a difference  
 📊 Experienced in web dev, digital marketing, social media & management  
