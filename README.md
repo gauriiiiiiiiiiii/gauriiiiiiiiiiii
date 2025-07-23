@@ -18,6 +18,11 @@
   <a href="https://leetcode.com/u/gauriiiiiiiiiiiiiiii/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="36" alt="LeetCode" />
   </a>
+
+  <a href="https://www.geeksforgeeks.org/user/gauriiiii/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="36" alt="GeeksforGeeks" />
+  </a>
+  
 </div>
 
 ---
