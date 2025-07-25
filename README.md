@@ -3,18 +3,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/gau.ri.__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="Instagram" />
+  <a href="https://gauriiiiiiiiiiii.github.io/portfolio/" target="_blank" title="Portfolio">
+   <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="48" height="36" alt="Portfolio" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gauri-agarwal-381798203/" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.linkedin.com/in/gauri-agarwal-381798203/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:gauriagarwal25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
-  </a>
-  
   <a href="https://leetcode.com/u/gauriiiiiiiiiiiiiiii/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="36" alt="LeetCode" />
   </a>
@@ -22,7 +18,15 @@
   <a href="https://www.geeksforgeeks.org/user/gauriiiii/" target="_blank">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="36" alt="GeeksforGeeks" />
   </a>
+
+  <a href="https://www.instagram.com/gau.ri.__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="Instagram" />
+  </a>
   
+  <a href="mailto:gauriagarwal25@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
+  </a>
+
 </div>
 
 ---
