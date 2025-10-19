@@ -4,7 +4,7 @@
 
 <div align="left">
   <!-- Portfolio -->
-  <a href="https://gauriiiiiiiiiiii.github.io/portfolio/" target="_blank" title="Portfolio">
+  <a href="https:/https://gauriiiiiiiiiiii.github.io/Portfolio/" target="_blank" title="Portfolio">
     <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="48" height="36" alt="Portfolio" />
   </a>
 
