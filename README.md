@@ -28,6 +28,13 @@
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="36" alt="GeeksforGeeks" />
   </a>
 
+  <!-- takeUforward -->
+  <a href="https://takeuforward.org/profile/gauriagarwal25" target="_blank" title="takeUforward Profile">
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-coding-computer-programming-flaticons-flat-flat-icons.png"
+         height="36" alt="takeUforward"/>
+  </a>
+
+
   <!-- Gmail -->
   <a href="mailto:gauriagarwal25@gmail.com" target="_blank" title="Gmail">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
