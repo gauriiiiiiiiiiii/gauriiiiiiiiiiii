@@ -9,7 +9,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gauri-agarwal-381798203/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/gauriiiiiiiiiiii/" target="_blank" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn" />
   </a> 
   
