@@ -3,50 +3,48 @@
 ###
 
 <div align="left">
+
   <!-- Portfolio -->
-  <a href ="https://gauriiiiiiiiiiii.github.io/Portfolio/" target="_blank" title="Portfolio">
-    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="48" height="36" alt="Portfolio" />
-  </a>
+  <a href="https://gauriiiiiiiiiiii.github.io/Portfolio/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="40"/></a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gauriiiiiiiiiiii/" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn" />
-  </a> 
-  
-  <!-- Resume -->
-  <a href="https://drive.google.com/drive/folders/1YVx-OeZASNhI5km5ny0SnE3VapRHK53A" target="_blank" title="Resume">
-    <img src="https://img.icons8.com/fluency/48/resume.png" width="48" height="36" alt="Resume" />
-  </a>
+  <a href="https://www.linkedin.com/in/gauriiiiiiiiiiii/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/></a>
 
-  
+  <!-- Resume -->
+  <a href="https://drive.google.com/drive/folders/1YVx-OeZASNhI5km5ny0SnE3VapRHK53A" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/resume.png" width="40"/></a>
+
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/gauriiiiiiiiiiiiiiii/" target="_blank" title="LeetCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="36" alt="LeetCode" />
-  </a>
+  <a href="https://leetcode.com/u/gauriiiiiiiiiiiiiiii/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
+    
+</div>
+
 
   <!-- GeeksforGeeks -->
-  <!-- <a href="https://www.geeksforgeeks.org/user/gauriiiii/" target="_blank" title="GeeksforGeeks">
+  <!-- <a href="https://www.geeksforgeeks.org/user/gauriiiii/" target="_blank" title="GeeksforGeeks" style="display:inline-block;">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="36" alt="GeeksforGeeks" />
   </a> -->
 
   <!-- takeUforward -->
-  <!-- <a href="https://takeuforward.org/profile/gauriagarwal25" target="_blank" title="takeUforward Profile">
+  <!-- <a href="https://takeuforward.org/profile/gauriagarwal25" target="_blank" title="takeUforward Profile" style="display:inline-block;">
     <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-coding-computer-programming-flaticons-flat-flat-icons.png"
          height="36" alt="takeUforward"/>
   </a> -->
 
 
   <!-- Gmail -->
-  <!-- <a href="mailto:gauriagarwal25@gmail.com" target="_blank" title="Gmail">
+  <!-- <a href="mailto:gauriagarwal25@gmail.com" target="_blank" title="Gmail" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
   </a> -->
 
   <!-- Instagram -->
-  <!-- <a href="https://www.instagram.com/gau.ri.__/" target="_blank" title="Instagram">
+  <!-- <a href="https://www.instagram.com/gau.ri.__/" target="_blank" title="Instagram" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="Instagram" />
   </a> -->
-  
-</div>
+
 
 ---
 
