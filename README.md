@@ -50,10 +50,10 @@
 
 ### 👩‍💻 About Me
 
-🚀 Software Developer passionate about building scalable applications and solving real-world problems
-💻 Interested in Full-Stack Development, Machine Learning, and AI-powered products
-🧩 Strong focus on Data Structures, Algorithms, and system design fundamentals
-🌱 Continuously learning, building, and exploring emerging technologies
+🚀 Software Developer passionate about building scalable applications and solving real-world problems<br>
+💻 Interested in Full-Stack Development, Machine Learning, and AI-powered products<br>
+🧩 Strong focus on Data Structures, Algorithms, and system design fundamentals<br>
+🌱 Continuously learning, building, and exploring emerging technologies<br>
 ✨ Driven by curiosity, creativity, and the desire to create impactful solutions
 
 ---
