@@ -50,11 +50,11 @@
 
 ### 👩‍💻 About Me
 
-🌱 Software Development enthusiast  
-🎨 Creative, curious, and always exploring new tech  
-🚀 Passionate about building things that make a difference  
-📊 Experienced in web dev, digital marketing, social media & management  
-💡 Currently working on side projects & brushing up on DSA
+🚀 Software Developer passionate about building scalable applications and solving real-world problems
+💻 Interested in Full-Stack Development, Machine Learning, and AI-powered products
+🧩 Strong focus on Data Structures, Algorithms, and system design fundamentals
+🌱 Continuously learning, building, and exploring emerging technologies
+✨ Driven by curiosity, creativity, and the desire to create impactful solutions
 
 ---
 
