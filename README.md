@@ -5,7 +5,7 @@
 <div align="left">
 
   <!-- Portfolio -->
-  <a href="https://portfolioo-five-blond.vercel.app/" target="_blank">
+  <a href="https://portfoliooo-zeta-eight.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="40"/></a>
 
   <!-- LinkedIn -->
