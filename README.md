@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/></a>
 
   <!-- Resume -->
-  <a href="https://drive.google.com/drive/folders/1YVx-OeZASNhI5km5ny0SnE3VapRHK53A" target="_blank">
+  <a href="https://drive.google.com/file/d/1aEWi86KXPHZJNRjBhc1EUmdSpxTDvSoe/view" target="_blank">
     <img src="https://img.icons8.com/fluency/48/resume.png" width="40"/></a>
 
   <!-- LeetCode -->
