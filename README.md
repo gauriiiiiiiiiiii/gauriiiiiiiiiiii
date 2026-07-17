@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+Engineer;Building+AI+Products;Open+Source+Contributor" alt="Typing intro" />
 </p>
 
-### 👩‍💻 About Me
-Aspiring Software Engineer passionate about backend development, AI, and building products that solve real-world problems
+
 
 ### 🚀 Tech Stack
 <p align="left">
@@ -31,5 +30,5 @@ Aspiring Software Engineer passionate about backend development, AI, and buildin
 ### 
 
 <p align="center">
-  <img src="./gif.gif" width="600" alt="Project Preview">
+  <img src="./gif.gif" width="300" alt="Project Preview">
 </p>
