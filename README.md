@@ -1,85 +1,35 @@
-<h1 align="left">Hi👋 I'm Gauri </h1>
-
-###
-
-<div align="left">
-
-  <!-- Portfolio -->
-  <a href="https://portfoliooo-zeta-eight.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="40"/></a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gauriiiiiiiiiiii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/></a>
-
-  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1aEWi86KXPHZJNRjBhc1EUmdSpxTDvSoe/view" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/resume.png" width="40"/></a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/gauriiiiiiiiiiiiiiii/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
-    
-</div>
-
-
-  <!-- GeeksforGeeks -->
-  <!-- <a href="https://www.geeksforgeeks.org/user/gauriiiii/" target="_blank" title="GeeksforGeeks" style="display:inline-block;">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="36" alt="GeeksforGeeks" />
-  </a> -->
-
-  <!-- takeUforward -->
-  <!-- <a href="https://takeuforward.org/profile/gauriagarwal25" target="_blank" title="takeUforward Profile" style="display:inline-block;">
-    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-coding-computer-programming-flaticons-flat-flat-icons.png"
-         height="36" alt="takeUforward"/>
-  </a> -->
-
-
-  <!-- Gmail -->
-  <!-- <a href="mailto:gauriagarwal25@gmail.com" target="_blank" title="Gmail" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
-  </a> -->
-
-  <!-- Instagram -->
-  <!-- <a href="https://www.instagram.com/gau.ri.__/" target="_blank" title="Instagram" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="Instagram" />
-  </a> -->
-
-
----
-
-### 👩‍💻 About Me
-
-🚀 Software Developer passionate about building scalable applications and solving real-world problems<br>
-💻 Interested in Full-Stack Development, Machine Learning, and AI-powered products<br>
-🧩 Strong focus on Data Structures, Algorithms, and system design fundamentals<br>
-🌱 Continuously learning, building, and exploring emerging technologies<br>
-✨ Driven by curiosity, creativity, and the desire to create impactful solutions
-
----
-
-### 💻 Languages & Tools I Use
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="AWS" />
-</div>
-
----
+<h1 align="left">Hi👋 I'm Gauri</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+Engineer;Building+AI+Products;Open+Source+Contributor" alt="Typing intro" />
+</p>
+
+### 👩‍💻 About Me
+Aspiring Software Engineer passionate about backend development, AI, and building products that solve real-world problems
+
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="36" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="36" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform" />
+</p>
+
+### 
+
+<p align="center">
+  <img src="./gif.gif" width="850" alt="Project Preview">
 </p>
