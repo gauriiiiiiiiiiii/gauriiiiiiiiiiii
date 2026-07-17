@@ -31,5 +31,5 @@ Aspiring Software Engineer passionate about backend development, AI, and buildin
 ### 
 
 <p align="center">
-  <img src="./gif.gif" width="850" alt="Project Preview">
+  <img src="./gif.gif" width="600" alt="Project Preview">
 </p>
